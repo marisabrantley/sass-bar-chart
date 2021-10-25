@@ -10,7 +10,7 @@ Code the bar chart using only HTML and SCSS variables, functions, and loops, wit
 
 ## Launch
 
-View the Sass Bar Chart Project here: 
+View the Sass Bar Chart Project here: https://marisabrantley.github.io/sass-bar-chart/
 
 ## Class
 
